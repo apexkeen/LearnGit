@@ -17,3 +17,6 @@ Adding line while on anotherBranch-2
 
 ========
 Add : 13sept:anotherBranch
+
+===== 
+Add : 13sept : master - 1 
